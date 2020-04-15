@@ -1,0 +1,5 @@
+# Additional configuration file to use for development
+# bundle exec jekyll serve --config _config.yml,_config_dev.yml
+environment: "development"
+url: ""
+baseurl: ""

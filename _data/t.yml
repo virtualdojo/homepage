@@ -1,0 +1,41 @@
+translations:
+  it:
+    text: "EN"
+    url: "/en/"
+  en:
+    text: "IT"
+    url: "/it/"
+
+Intro:
+  it: >-
+    VirtualDojo è un'iniziativa di vari club italiani di <a href="https://www.coderdojo.com"
+    class="underline font-bold">CoderDojo</a> per offrire un’esperienza creativa anche da casa!
+
+Cards:
+  it:
+    - title: Cos'è CoderDojo
+      desc: >-
+        <a href="https://www.coderdojo.com" class="underline font-bold">CoderDojo</a> è un movimento
+        internazionale che pone anche un forte accento sul software free e open source e ha una solida 
+        rete globale di membri e volontari. CoderDojo ha solo una regola: <span class="italic font-bold">
+        Soprattutto sii in gamba!</span> (<span class="italic">Above All: Be Cool</span>), il bullismo, mentire,
+        far perdere tempo e cose così, non è da persone in gamba.
+      bg: bg-orange-500
+    - title: Come sono organizzati
+      desc: >-
+        I club del CoderDojo sono organizzati localmente. Nelle ultime edizioni abbiamo proposto delle attività
+        utilizzando Scratch. Abbiamo raccontato come ci siamo organizzati nei primi due appuntamenti (<a 
+        href="https://medium.com/unicorni/tutto-quello-che-serve-sapere-per-organizzare-un-virtual-dojo-8f3e5ec45a08"
+        class="underline font-bold">Part1</a> - <a
+        href="https://medium.com/unicorni/virtualdojo-seconda-iterazione-4a9299bd4521" class="underline font-bold">Part2</a>).
+      bg: bg-green-500
+    - title: Come si partecipa
+      desc: >-
+        Ogni CoderDojo...
+      bg: bg-teal-500
+    - title: Cos'è il software che stiamo usando
+      desc: >-
+        Vari mentors si sono resi disponibili a sviluppare un software <a href="https://github.com/virtualdojo/virtualdojo-rooms/" class="underline font-bold">open
+        source</a> per facilitare la creazione di nuovi eventi e stanze. È integrato con <a
+        href="https://jitsi.org" class="underline font-bold">Jitsi</a> un sistema gratuito e open per effettuare videochiamate di gruppo.
+      bg: bg-indigo-500
