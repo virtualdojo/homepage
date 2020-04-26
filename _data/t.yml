@@ -23,15 +23,25 @@ Cards:
       bg: bg-orange-500
     - title: Come sono organizzati
       desc: >-
-        I club del CoderDojo sono organizzati localmente. Nelle ultime edizioni abbiamo proposto delle attività
-        utilizzando Scratch. Abbiamo raccontato come ci siamo organizzati nei primi due appuntamenti (<a 
+        I VirtualDojo sono degli eventi organizzati da club locali e si tengono solitamente il Sabato pomeriggio. 
+        Nelle ultime edizioni sono state proposte delle attività con Scratch. 
+        Abbiamo raccontato come ci siamo organizzati nei primi due appuntamenti (<a 
         href="https://medium.com/unicorni/tutto-quello-che-serve-sapere-per-organizzare-un-virtual-dojo-8f3e5ec45a08"
         class="underline font-bold">Part1</a> - <a
         href="https://medium.com/unicorni/virtualdojo-seconda-iterazione-4a9299bd4521" class="underline font-bold">Part2</a>).
       bg: bg-green-500
     - title: Come si partecipa
       desc: >-
-        Ogni CoderDojo...
+        Ogni evento viene organizzato ad un club locale. Ad ora VirtualDojo ha visto la partecipazione di: 
+        CoderDojo <a href="http://www.coderdojobologna.it/" class="underline font-bold">Bologna</a>,
+        <a href="https://coderdojopadova.wordpress.com" class="underline font-bold">Padova</a>,
+        <a href="https://www.coderdojoparma.it/" class="underline font-bold">Parma</a>,
+        <a href="https://coderdojoperugia.com/" class="underline font-bold">Perugia</a>,
+        <a href="https://www.facebook.com/coderdojopomezia/" class="underline font-bold">Pomezia</a>,
+        <a href="https://coderdojosigillo.tumblr.com/" class="underline font-bold">Sigillo</a> e 
+        <a href="http://www.coderdojoupto.com/" class="underline font-bold">UpTo</a>.
+        E’ necessario seguire le indicazioni del singolo Dojo per iscriversi all’evento.
+        Solitamente viene pubblicizzato le iscrizioni aprono una settimana prima!
       bg: bg-teal-500
     - title: Cos'è il software che stiamo usando
       desc: >-
