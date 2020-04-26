@@ -6,6 +6,7 @@ description: >-
 url: "https://www.virtualdojo.it"
 github_username:  virtualdojo
 
+destination: ./build
 exclude:
   - .sass-cache/
   - .jekyll-cache/
